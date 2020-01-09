@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.etherealnation.gradle.TestablePluginTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-01-09T21:30:25" hostname="COSML-1686890" time="2.692">
+  <properties/>
+  <testcase name="thePluginGetsApplied" classname="net.etherealnation.gradle.TestablePluginTest" time="2.692"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
